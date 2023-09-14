@@ -4,3 +4,8 @@
   border: 2px solid lightgreen;
   border-radius: 15px;
 }
+.button {
+  padding: 15px 30px;
+  border: 1px solid green;
+  border-radius: 15px;
+}
