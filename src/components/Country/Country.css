@@ -9,3 +9,10 @@
   border: 1px solid green;
   border-radius: 15px;
 }
+.visited {
+  background-color: cadetblue;
+}
+.non-visited {
+  background-color: black;
+  color: white;
+}
